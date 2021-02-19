@@ -26,9 +26,6 @@ def scrapeMonster():
         print('')
 
 
-#media bias scraper
-
-
 
 
 
